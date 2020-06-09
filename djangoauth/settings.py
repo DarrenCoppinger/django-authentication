@@ -26,7 +26,7 @@ SECRET_KEY = 'gd5#z2il6%&eub3(w#6gp^$#=#pq$$qoqm)ek5=1q3)e5n0ue6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'https://dc-djangoauth.herokuapp.com/']
+ALLOWED_HOSTS = ['localhost', 'dc-djangoauth.herokuapp.com']
 
 
 # Application definition
